@@ -1,0 +1,17 @@
+# Archivos de respaldo y volcados de base de datos
+*.sql
+*.sqldump
+*.dump
+*.bak
+
+# Archivos temporales y de registro
+*.log
+*.tmp
+
+# Archivos de configuración y variables de entorno
+*.config
+.env
+
+# Espacios de trabajo y respaldos de MySQL Workbench
+*.mwb.bak
+*.workspace
